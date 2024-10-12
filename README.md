@@ -1,7 +1,9 @@
 # Library System Application
 
 ## Description
-The Library System Application is a comprehensive software solution designed to manage the functionalities of a library. It allows administrators and librarians to efficiently manage members, books, checkouts, and overdue items, ensuring a smooth library operation.
+The Library System Application is a software solution built with Java SWING, designed to manage the functionalities of a library. Developed by Mercel, Saeed, and Jeff, this system serves as a course project for CS401 Modern Programming Practices at MIU 2024.
+
+The application enables administrators and librarians to efficiently manage members, books, checkouts, and overdue items, ensuring smooth operations and an enhanced user experience within the library.
 
 ## Features
 - **User Login**
@@ -89,5 +91,4 @@ The following diagrams provide a visual representation of the system architectur
 - **`filenames.py`**: A script for generating file lists.
 - **`file_list.txt`**: Output from `filenames.py`, listing files in the current directory.
 
-## Conclusion
-The Library System Application is designed to streamline library management and enhance user experience. Its robust features support efficient handling of members and books, ensuring the smooth operation of library services.
+
